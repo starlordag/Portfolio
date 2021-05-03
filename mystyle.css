@@ -1,0 +1,26 @@
+
+h1{
+    color: blue;
+}
+
+.header{
+ background-color: rgb(119, 198, 201);
+ text-align: center;   
+}
+
+.grid{
+    background-color: lightcoral;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;   
+}
+
+
+.footer{
+    display: flex;
+    justify-content: center;
+}
+
+p,h2{
+    text-align: left;
+}
